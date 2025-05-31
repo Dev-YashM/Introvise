@@ -30,7 +30,7 @@ Key Features:
 |------------|-------------|
 | **Frontend** | React.js, Tailwind CSS |
 | **Backend**  | Spring Boot, OAuth2, Hibernate |
-| **ML & AI**  | Whisper, Vosk, DeepSpeech, Mediapipe, OpenCV, Hugging Face |
+| **ML & AI**  |Deepface, NLTK,Mediapipe, CV2, Whisper|
 | **Database** | PostgreSQL (Amazon RDS) |
 | **Cloud & Hosting** | AWS, Firebase, Netlify |
 
@@ -38,6 +38,7 @@ Key Features:
 📦 How to Run Locally
 
 1️⃣ Frontend
+
 on bash:
 cd frontend
 npm install
@@ -49,6 +50,7 @@ Open the backend project in IntelliJ IDEA
 Configure and run the application
 
 ⚙️ Runs on: http://localhost:8080
+
 🔐 IMPORTANT:
 Backend requires:
 
@@ -61,11 +63,8 @@ Place credentials.json in the root of your backend project or configure it in en
 3️⃣ Machine Learning Module
 Open the ML module in VS Code
 
-bash
-Copy
-Edit
-# Navigate to ML project directory
-python app.py
+Navigate to ML project directory
+run on ngrok using ur own API key
 ⚙️ Runs on: http://localhost:3000
 
 🛠️ Functional Flow
@@ -73,7 +72,7 @@ User Login (Google, LinkedIn, GitHub, or Email)
 
 Upload Resume & Job Details
 
-AI-Generated Questions – Tailored based on resume and JD
+AI-Generated Questions – Tailored based on roles and position
 
 Mock Interview – Video + Voice response
 
