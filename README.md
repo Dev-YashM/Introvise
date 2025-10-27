@@ -1,7 +1,7 @@
 Introvise 🎯
 
 AI-Powered Interview Readiness and Talent Matching Platform
-Built for Hackvortex 2025 by Team Latent Geeks
+Built by Team Latent Geeks
 
 ---
 
