@@ -19,8 +19,8 @@ Key Features:
 ---
 
 🧑‍💻 Team Members
-- **Yash Maske** – Machine Learning Developer  
-- **Amey Patil** – Team Lead & Backend Developer
+-  **Yash Maske** – Team Lead & Backend Developer    
+-  **Amey Patil** – – Machine Learning Developer
 
 ---
 
@@ -31,8 +31,7 @@ Key Features:
 | **Frontend** | React.js, Tailwind CSS |
 | **Backend**  | Spring Boot, OAuth2, Hibernate |
 | **ML & AI**  |Deepface, NLTK,Mediapipe, CV2, Whisper|
-| **Database** | PostgreSQL (Amazon RDS) |
-| **Cloud & Hosting** | AWS, Firebase, Netlify |
+| **Database** | PostgreSQL |
 
 ---
 📦 How to Run Locally
