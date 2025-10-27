@@ -20,7 +20,9 @@ Key Features:
 
 🧑‍💻 Team Members
 -  **Yash Maske** – Team Lead & Backend Developer    
--  **Amey Patil** – – Machine Learning Developer
+-  **Amey Patil** – Machine Learning Developer
+-  **Khushant Ubarhande** – Frontend Developer
+-  **Atharva Bhosale** – Database and SQL Developer
 
 ---
 
